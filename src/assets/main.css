@@ -1,0 +1,24 @@
+/* src/assets/main.css */
+:root {
+  /* Couleurs */
+  --primary-color: #35495e;
+  --accent-color: #41b883;
+  --bg-color: #f8f9fa;
+  
+  /* Espacements (Design System) */
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  
+  /* Typographie */
+  --font-sm: 14px;
+  --font-md: 18px;
+  --font-lg: 28px;
+}
+
+body {
+  background-color: var(--bg-color);
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+}
