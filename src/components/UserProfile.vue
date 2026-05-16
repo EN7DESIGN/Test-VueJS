@@ -11,7 +11,7 @@ const closeModal = () => { isModalOpen.value = false }
 
 <template>
   <div class="profile-card">
-    <img src="https://picsum.photos/300" alt="Avatar" class="avatar" />
+    <img src="https://picsum.photos/200" alt="Avatar" class="avatar" />
     <h2>John Doe</h2>
     <p>Cliquez sur le bouton pour voir l'effet et la modale.</p>
     
